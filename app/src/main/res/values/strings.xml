@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="chevy_chase_md">Chevy Chase, MD</string>
+    <string name="_90">90º</string>
+    <string name="Dwork" tools:ignore="StringEscaping"> That didn\'t work! </string>
+    <string name="high">HIGH</string>
+    <string name="low">LOW</string>
+    <string name="textview1">TextView</string>
+    <string name="l">L :</string>
+    <string name="h">H :</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="f">ºF</string>
+    <string name="c">ºC</string>
+    <string name="setting">Setting</string>
+    <string name="board">Board</string>
+</resources>
