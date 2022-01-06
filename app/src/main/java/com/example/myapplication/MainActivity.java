@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     @SuppressLint("UseSwitchCompatOrMaterialCode")
     double degree_d;
     JSONObject object;
-    JSONArray weather;
+    private JSONArray weather;
     JSONObject Info;
     CheckBox f;
     CheckBox c;
