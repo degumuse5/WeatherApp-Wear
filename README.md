@@ -3,6 +3,8 @@ Weather app that displays the nessecary cloth to wear beased on the weather. It'
 
 Weather app
 
+
 <img width="347" alt="AppPhotos" src="https://user-images.githubusercontent.com/80492184/148599526-cbd39381-c93b-4be1-821e-2b4221ff461d.png">
+https://user-images.githubusercontent.com/80492184/148601168-abe72e98-7787-42d6-911c-82b13819240b.mov
 
 
