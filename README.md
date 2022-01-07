@@ -6,6 +6,8 @@ Weather app
 
 <img width="347" alt="AppPhotos" src="https://user-images.githubusercontent.com/80492184/148599526-cbd39381-c93b-4be1-821e-2b4221ff461d.png">
 
-<img width="347" alt="Gif" src="https://user-images.githubusercontent.com/80492184/148601168-abe72e98-7787-42d6-911c-82b13819240b.mov">
+
+![Screen Recording 2022-01-07 at 2 45 07 PM](https://user-images.githubusercontent.com/80492184/148604688-38b7ee64-6e8a-4d2b-8c0a-e2d4067c6b81.gif)
+
 
 
