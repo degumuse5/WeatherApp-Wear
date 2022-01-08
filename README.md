@@ -1,5 +1,5 @@
 # WeatherApp-Wear
-Weather app that displays the nessecary cloth to wear beased on the weather. It's a simple app idea to make your life a little simpler. A project I've built to expand my engineering journey. Also was a self taught process from start to bottom challenge I made for my self, learned about andriod programming for a week. Then started making the app what was on my mind. Took me total of 14 days to make this project.
+Weather app that displays the nessecary cloth to wear based on the weather. It's a simple app idea to make your life a little simpler. A project I've built to expand my engineering journey. Also was a self taught process from a start to finsh challenge I made for my self, learned about andriod programming for a week. Then started making the app that was on my mind. Took me total of 14 days to make this project.
 
 Weather app
 
