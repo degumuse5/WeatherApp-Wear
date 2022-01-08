@@ -14,6 +14,13 @@ How to use:
 - Based on the weather in that city, the interface will be updated to match the theme of the weather.
 - A cloth at the bottom of your screen will display corrsponding to the weather.
 
+Api OpenWeatherApi(Free Plan):
+
+- 1,000,000 calls a month
+- 200,000 cities.
+- Provides HTML, JSON and XML format.
+- Used a singlton desgin patter to ensure only one request is sent and that same request is reused. Instead of sending requests everytime. 
+
 Requirements
 
 - Android studio last version
@@ -21,6 +28,8 @@ Requirements
 - Android SDK 31
 - Supports API Level +21
 - Material Components 1.5.0-alpha04
+
+Copyright
 
 
 
